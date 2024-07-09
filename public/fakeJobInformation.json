@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/HGvz3Gx/google-rainbow-texture-1491566442.jpg",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full time",
+    "salary": "100k-150k",
+    "job_description": "As a Software Engineer at Google LLC, you will be responsible for designing and developing innovative software solutions that enhance user experience. You will work closely with a team of talented engineers to build scalable and efficient systems. Your role will involve understanding user requirements, creating detailed design documents, and writing clean, maintainable code. You will also participate in code reviews, testing, and debugging processes to ensure high-quality software delivery. Additionally, you will stay up-to-date with the latest industry trends and technologies to continually improve our products and services.",
+    "job_responsibility": "Collaborating with cross-functional teams to gather and analyze requirements, design software solutions, and implement features that meet user needs. You will be involved in all stages of the software development lifecycle, from initial concept and planning to testing, deployment, and maintenance. You will work closely with product managers, designers, and other engineers to ensure seamless integration of new features and improvements. Additionally, you will be responsible for troubleshooting and resolving technical issues, optimizing application performance, and maintaining documentation for future reference. Your collaboration will also extend to participating in team meetings, code reviews, and providing mentorship to junior developers.",
+    "education_requirements": "Bachelor's degree from a reputable university.",
+    "experience": "2-3 years in this field.",
+    "contact_information": {
+      "phone": "01214551451",
+      "email": "adfafdaf@dsd.fa",
+      "address": "123 Example Street, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/D1cYfHX/seattle-usa-april-5-2023-600nw-2286327737.webp",
+    "job_title": "Frontend Developer",
+    "company_name": "Microsoft Corporation",
+    "remote_or_onsite": "Remote",
+    "location": "Seattle, Washington, USA",
+    "job_type": "Contract",
+    "salary": "80k-120k",
+    "job_description": "Join Microsoft Corporation as a Frontend Developer, where you will create engaging and responsive user interfaces for our web applications. You will collaborate with designers and backend developers to implement user-friendly features and optimize application performance. Your role will involve writing clean, maintainable code using modern JavaScript frameworks and libraries. Additionally, you will participate in agile development processes, contribute to UI/UX design discussions, and ensure cross-browser compatibility and accessibility standards.",
+    "job_responsibility": "Working closely with UX/UI designers to translate design wireframes and prototypes into responsive and interactive user interfaces. You will build reusable components and front-end libraries for future use, ensuring the technical feasibility of UI/UX designs. You will also optimize application performance, troubleshoot and debug issues, and implement best practices for frontend development. Collaborating with backend developers to integrate APIs and improve system architecture will be crucial for seamless application functionality.",
+    "education_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experience": "3-5 years of frontend development experience.",
+    "contact_information": {
+      "phone": "01234567890",
+      "email": "frontenddev@microsoft.com",
+      "address": "1 Microsoft Way, Redmond, WA, USA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/12mPp66/1711917524745.jpg",
+    "job_title": "iOS Developer",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Cupertino, California, USA",
+    "job_type": "Full time",
+    "salary": "120k-160k",
+    "job_description": "As an iOS Developer at Apple Inc., you will play a key role in designing and developing innovative iOS applications that redefine user experience. You will collaborate with cross-functional teams to create scalable and high-performance mobile solutions. Your responsibilities will include implementing new features, optimizing application performance, and ensuring code quality and security. Additionally, you will contribute to architectural decisions and participate in design and code reviews.",
+    "job_responsibility": "Designing and building advanced applications for the iOS platform using Swift and UIKit frameworks. You will collaborate with product managers and designers to understand user requirements and translate them into technical solutions. Your role will involve integrating with backend services and APIs, ensuring seamless data flow and functionality across the application. You will also participate in debugging and troubleshooting issues, as well as maintaining code quality through unit testing and continuous integration.",
+    "education_requirements": "Bachelor's degree in Computer Science or equivalent practical experience.",
+    "experience": "4-6 years of iOS application development experience.",
+    "contact_information": {
+      "phone": "0987654321",
+      "email": "iosdev@apple.com",
+      "address": "1 Apple Park Way, Cupertino, CA, USA"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/XxmVWh7/images.jpg",
+    "job_title": "Cloud Solutions Architect",
+    "company_name": "Amazon Web Services (AWS)",
+    "remote_or_onsite": "Remote",
+    "location": "Virtual, Worldwide",
+    "job_type": "Full time",
+    "salary": "150k-200k",
+    "job_description": "Join Amazon Web Services (AWS) as a Cloud Solutions Architect, where you will design and deploy scalable cloud solutions that meet customer requirements. You will work closely with enterprise customers to understand their business needs and develop architecture designs that leverage AWS cloud services. Your role will involve guiding customers through cloud migration, optimizing performance and cost efficiency, and ensuring security and compliance standards. Additionally, you will collaborate with sales teams to support customer engagements and deliver technical presentations.",
+    "job_responsibility": "Leading architecture discussions and recommending solutions based on customer requirements and AWS best practices. You will design and deploy scalable, highly available, and fault-tolerant systems on AWS cloud infrastructure. Your responsibilities will include creating technical documentation, conducting proof-of-concept implementations, and providing guidance on implementing DevOps practices. Collaborating with stakeholders to define migration strategies and assist in troubleshooting and resolving technical issues will be essential for successful customer outcomes.",
+    "education_requirements": "Bachelor's degree in Computer Science, Engineering, or related field.",
+    "experience": "5+ years of experience in IT architecture, infrastructure, or software engineering.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "cloudarchitect@aws.com",
+      "address": "Virtual office, worldwide"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/v3xBvTK/images-1.jpg",
+    "job_title": "Data Scientist",
+    "company_name": "Meta (formerly Facebook)",
+    "remote_or_onsite": "Remote",
+    "location": "Menlo Park, California, USA",
+    "job_type": "Full time",
+    "salary": "130k-170k",
+    "job_description": "Meta is seeking a talented Data Scientist to join our team in Menlo Park, CA. As a Data Scientist, you will leverage data analytics and machine learning techniques to drive actionable insights and enhance product experiences. You will collaborate with cross-functional teams to identify business opportunities, design experiments, and develop predictive models. Your role will involve analyzing large datasets, conducting statistical analysis, and presenting findings to stakeholders. Additionally, you will contribute to data-driven decision-making processes and innovate new solutions to complex challenges.",
+    "job_responsibility": "Applying machine learning algorithms and statistical models to analyze and interpret complex datasets. You will develop and deploy predictive models and algorithms that optimize user engagement and product performance. Your responsibilities will include designing and conducting experiments, analyzing experimental results, and deriving actionable insights for product enhancements. Collaborating with engineers to implement data pipelines and integrate models into production systems will be crucial for delivering scalable solutions.",
+    "education_requirements": "Master's or PhD in Computer Science, Statistics, Mathematics, or a related quantitative field.",
+    "experience": "3-5 years of experience in data science or related field.",
+    "contact_information": {
+      "phone": "0987654321",
+      "email": "datascientist@meta.com",
+      "address": "1 Hacker Way, Menlo Park, CA, USA"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/HGvz3Gx/google-rainbow-texture-1491566442.jpg",
+    "job_title": "Autopilot Software Engineer",
+    "company_name": "Tesla, Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Palo Alto, California, USA",
+    "job_type": "Full time",
+    "salary": "140k-180k",
+    "job_description": "Join Tesla, Inc. as an Autopilot Software Engineer and be part of a team revolutionizing autonomous driving technology. You will design and implement software solutions that power Tesla's Autopilot system, enabling safer and more efficient transportation. Your role will involve developing algorithms, optimizing sensor data processing, and integrating machine learning models for real-time decision-making. Additionally, you will collaborate with hardware engineers, conduct performance analysis, and contribute to continuous improvement efforts.",
+    "job_responsibility": "Designing and implementing algorithms and software components for autonomous driving systems. You will work on sensor fusion, perception algorithms, path planning, and control systems to enhance vehicle autonomy and safety. Your responsibilities will include testing and validating software components, debugging issues, and optimizing performance for real-world applications. Collaborating with cross-functional teams to integrate software with hardware components and ensuring compliance with safety and regulatory standards will be essential.",
+    "education_requirements": "Bachelor's or Master's degree in Computer Science, Electrical Engineering, Robotics, or a related field.",
+    "experience": "4+ years of experience in software engineering, with a focus on autonomous systems or robotics.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "autopilotengineer@tesla.com",
+      "address": "3500 Deer Creek Rd, Palo Alto, CA, USA"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://i.ibb.co/HGvz3Gx/google-rainbow-texture-1491566442.jpg",
+    "job_title": "Senior UX Designer",
+    "company_name": "Netflix, Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Los Gatos, California, USA",
+    "job_type": "Full time",
+    "salary": "140k-180k",
+    "job_description": "Netflix, Inc. is seeking a Senior UX Designer to join our global streaming experience team. As a Senior UX Designer, you will lead design initiatives that shape the future of entertainment experiences. You will collaborate with cross-functional teams to create intuitive and engaging user interfaces for our streaming platform. Your role will involve conducting user research, defining user journeys, and prototyping innovative design concepts. Additionally, you will advocate for user-centered design principles, mentor junior designers, and contribute to design system evolution.",
+    "job_responsibility": "Leading design projects from concept to execution, collaborating with product managers, engineers, and researchers to deliver impactful user experiences. You will conduct user research to understand user needs and behaviors, translating insights into design solutions that enhance usability and engagement. Your responsibilities will include creating wireframes, prototypes, and visual designs that align with Netflix's brand and design guidelines. Collaborating with cross-functional teams to iterate on designs, gather feedback, and refine solutions based on usability testing and data analytics.",
+    "education_requirements": "Bachelor's or Master's degree in Design, Human-Computer Interaction, or a related field.",
+    "experience": "5+ years of experience in UX/UI design, with a focus on consumer-facing digital products.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "uxdesigner@netflix.com",
+      "address": "100 Winchester Cir, Los Gatos, CA, USA"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://i.ibb.co/12mPp66/1711917524745.jpg",
+    "job_title": "Senior Product Manager",
+    "company_name": "Airbnb, Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, California, USA",
+    "job_type": "Full time",
+    "salary": "160k-200k",
+    "job_description": "Airbnb, Inc. is looking for a Senior Product Manager to join our global product team. As a Senior Product Manager, you will drive the strategy, roadmap, and execution of key product initiatives that enhance the Airbnb experience for hosts and guests worldwide. You will collaborate with cross-functional teams to define product requirements, prioritize features, and launch scalable solutions. Your role will involve conducting market research, analyzing user feedback, and identifying opportunities for product innovation.",
+    "job_responsibility": "Defining product vision, strategy, and roadmap based on market trends, user insights, and business goals. You will partner with engineering, design, and marketing teams to deliver high-impact features and enhancements that drive growth and user satisfaction. Your responsibilities will include prioritizing features, writing user stories, and managing the product development lifecycle from concept to launch. Collaborating with stakeholders to define success metrics, monitor product performance, and iterate on features based on data-driven insights and feedback.",
+    "education_requirements": "Bachelor's or Master's degree in Business, Computer Science, or a related field.",
+    "experience": "7+ years of product management experience, with a track record of delivering successful products.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "productmanager@airbnb.com",
+      "address": "888 Brannan St, San Francisco, CA, USA"
+    }
+  },
+  {
+    "id": 9,
+    "logo": "https://i.ibb.co/XxmVWh7/images.jpg",
+    "job_title": "Backend Engineer",
+    "company_name": "Spotify Technology S.A.",
+    "remote_or_onsite": "Remote",
+    "location": "Stockholm, Sweden",
+    "job_type": "Full time",
+    "salary": "120k-160k",
+    "job_description": "Join Spotify Technology S.A. as a Backend Engineer and contribute to building the world's leading audio streaming platform. You will design and develop scalable backend services that handle millions of requests per day. Your role will involve optimizing performance, ensuring reliability, and maintaining high standards of code quality and security. You will collaborate with cross-functional teams to deliver new features, improve system architecture, and innovate solutions for complex technical challenges.",
+    "job_responsibility": "Designing and developing backend services, APIs, and microservices that power Spotify's platform. You will work with distributed systems, databases, and cloud infrastructure to build scalable and reliable solutions. Your responsibilities will include writing clean, maintainable code, conducting code reviews, and implementing best practices for backend development. Collaborating with frontend engineers, data scientists, and product managers to deliver end-to-end features and services that meet user needs and business objectives.",
+    "education_requirements": "Bachelor's degree in Computer Science, Engineering, or a related field.",
+    "experience": "4-6 years of backend development experience, preferably in high-traffic environments.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "backendengineer@spotify.com",
+      "address": "56 Birger Jarlsgatan, Stockholm, Sweden"
+    }
+  },
+  {
+    "id": 10,
+    "logo": "https://i.ibb.co/D1cYfHX/seattle-usa-april-5-2023-600nw-2286327737.webp",
+    "job_title": "Senior Data Analyst",
+    "company_name": "Uber Technologies, Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, California, USA",
+    "job_type": "Full time",
+    "salary": "130k-170k",
+    "job_description": "Uber Technologies, Inc. is seeking a Senior Data Analyst to join our Analytics team in San Francisco, CA. As a Senior Data Analyst, you will leverage data to drive strategic decisions and improve operational efficiencies across Uber's global business. You will collaborate with stakeholders to define analytical requirements, conduct data analysis, and present actionable insights to senior management. Your role will involve developing dashboards, reports, and data visualizations that facilitate data-driven decision-making and operational excellence.",
+    "job_responsibility": "Analyzing large datasets to identify trends, patterns, and opportunities for business optimization. You will conduct deep-dive analyses to understand user behavior, marketplace dynamics, and operational performance metrics. Your responsibilities will include developing models and algorithms to predict and optimize key business metrics, such as rider demand and driver supply. Collaborating with cross-functional teams to implement data-driven solutions and initiatives that drive growth, efficiency, and customer satisfaction.",
+    "education_requirements": "Bachelor's or Master's degree in Economics, Statistics, Mathematics, Computer Science, or a related quantitative field.",
+    "experience": "5+ years of experience in data analysis, with proficiency in SQL, Python, or R.",
+    "contact_information": {
+      "phone": "0123456789",
+      "email": "dataanalyst@uber.com",
+      "address": "1455 Market St, San Francisco, CA, USA"
+    }
+  }
+]
