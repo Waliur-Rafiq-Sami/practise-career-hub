@@ -1,10 +1,9 @@
 import { MdOutlineLocationOn } from "react-icons/md";
 import { HiOutlineCurrencyDollar } from "react-icons/hi2";
+import { NavLink } from "react-router-dom";
 
 const FeaturedJobs = ({ job }) => {
-  console.log(job);
   const { company_name, job_title, location, salary, logo } = job;
-  console.log(logo);
   return (
     <div>
       <div className="card border-[1px] ">
@@ -27,15 +26,17 @@ const FeaturedJobs = ({ job }) => {
               <MdOutlineLocationOn className="text-xl" /> {location}
             </p>
             <p className="flex items-center">
-              <HiOutlineCurrencyDollar className="text-xl" />{" "}
+              <HiOutlineCurrencyDollar className="text-xl" />
               <span className="font-semibold">Salary : </span>
               {salary}
             </p>
           </div>
           <div className="card-actions my-3">
-            <button className="btn md:h-12 rounded-md btn-sm bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white md:text-lg px-7 hover:opacity-85">
-              View Details
-            </button>
+            <NavLink to={`/view-details/${job.id}`}>
+              <button className="btn md:h-12 rounded-md btn-sm bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white md:text-lg px-7 hover:opacity-85">
+                View Details
+              </button>
+            </NavLink>
           </div>
         </div>
       </div>

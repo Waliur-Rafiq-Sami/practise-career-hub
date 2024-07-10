@@ -35,10 +35,10 @@ const Footer = () => {
       </footer>
       <footer className="footer text-base-content border-base-300 border-t px-10 py-4 container mx-auto">
         <aside className="grid-flow-col items-center text-white">
-          <p>
+          <div>
             <h1 className="text-xl font-bold">Created By Waliur Rafiq SAMI</h1>
             Providing reliable tech since 1992
-          </p>
+          </div>
         </aside>
         <nav className="md:place-self-center md:justify-self-end text-white">
           <div className="grid grid-flow-col gap-4">

@@ -1,9 +1,6 @@
 import React from "react";
 import img1 from "../../assets/icons/accounts.png";
 import img2 from "../../assets/icons/chip.png";
-// import img3 from "../../assets/icons/";
-// import img4 from "../../assets/icons/";
-// import img5 from "../../assets/icons/";
 
 const JobCart = ({ id, img, name, howMuchJob }) => {
   return (

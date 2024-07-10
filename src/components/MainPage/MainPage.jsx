@@ -82,6 +82,11 @@ const MainPage = () => {
       .then((jobs) => setJobData(jobs));
   }, []);
 
+  //see See All Jobs button
+  const [seeAll, setSeeAll] = useState(6);
+  const handleShowAllButton = () => {
+    setSeeAll(jobDatas.length);
+  };
   return (
     <>
       <Banner></Banner>
@@ -106,12 +111,23 @@ const MainPage = () => {
           jobNameText={FeaturedJobs}
           jobDefinationText={FeaturedJobsDetails}
         ></Text>
-        {/* Featured Jobs */}
+
         <div className="grid xl:grid-cols-3 lg:grid-cols-2  gap-5 p-2 m-2">
-          {jobDatas.map((job) => (
+          {jobDatas.slice(0, seeAll).map((job) => (
             <FeaturedJobsCards key={job.id} job={job}></FeaturedJobsCards>
           ))}
         </div>
+
+        {seeAll <= 6 && (
+          <div className="text-center my-10">
+            <button
+              onClick={() => handleShowAllButton()}
+              className="btn md:h-12 rounded-md btn-sm bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white md:text-lg px-7 hover:opacity-85"
+            >
+              See All Jobs
+            </button>
+          </div>
+        )}
       </div>
     </>
   );

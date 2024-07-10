@@ -1,10 +1,19 @@
 import React from "react";
 import "./Header.css";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useParams } from "react-router-dom";
+import backgroundImg from "../../assets/images/bg2.png";
 
 const Header = () => {
+  const showBgImg = useParams();
   return (
-    <div className="bg-[#8f9efc1e]">
+    <div className="bg-[#8f9efc1e] relative">
+      {showBgImg.id && (
+        <img
+          className="absolute right-0 md:w-auto w-48 -z-10"
+          src={backgroundImg}
+          alt=""
+        />
+      )}
       <div className="navbar py-10 container mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
@@ -50,13 +59,14 @@ const Header = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal space-x-5 font-semibold px-1 list-size">
             <li>
-              <Link to="/statistics">Statistics</Link>
+              <NavLink to="/">Home</NavLink>
             </li>
             <li>
-              <a>Applied Jobs</a>
+              <NavLink to="/applied-jobs">Applied Jobs</NavLink>
             </li>
             <li>
-              <a>Blog</a>
+              <NavLink to="/Blog">Blog</NavLink>
+              <a></a>
             </li>
           </ul>
         </div>
